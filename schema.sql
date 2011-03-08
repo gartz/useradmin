@@ -17,7 +17,7 @@ SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 
 --
 -- Database: `useradmin`
---
+-- w00t
 CREATE DATABASE `useradmin` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
 USE `useradmin`;
 
